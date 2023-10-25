@@ -11,10 +11,4 @@ To access scenario A and B, epuck robots and its controler, you'll need to downl
 
 The step by step instructions are available in the instructions.sh file
 
-echo ""
-echo "change the paths in the files activities.txt , activities2.txt ,activities3.txt"
-echo "Then, run the experiments with the following command"
-echo ""
-echo "argos3 -c tutti_TamT_A.argos"
-echo ""
 
